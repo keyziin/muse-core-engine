@@ -4,10 +4,18 @@
 [![Pro_Release](https://img.shields.io/badge/v3.0_PRO-Available_via_Author-ff1744?style=for-the-badge)](https://www.facebook.com/mmo.langthe)
 [![Runtime](https://img.shields.io/badge/Target-Meta_Muse.ai_Linux_VM-2979ff?style=for-the-badge)](#)
 
-**Muse Core Engine** is a low-level operational harness and behavioral firmware designed for **Meta Muse.ai**. It strips away verbose conversational overhead and reconfigures the persistent Linux Cloud VM (`~/workspace`) + Browser Bridge into a disciplined, high-throughput **Autonomous Execution & Protocol Analysis Engine**.
+**Muse Core Engine (`v2.5`)** is a low-level operational harness and behavioral firmware designed for **Meta Muse.ai**. It strips away verbose conversational overhead and reconfigures the persistent Linux Cloud VM (`~/workspace`) + Browser Bridge into a disciplined, high-throughput **Autonomous Execution & Protocol Analysis Engine**.
 
 > 📌 **Original Author & Official Release Channel:** **Lãng Thế** — [https://www.facebook.com/mmo.langthe](https://www.facebook.com/mmo.langthe)  
 > 🔥 **Looking for `v3.0 PRO (Full Unlocked)`?** The v3.0 PRO payload (featuring automated `.har`/AST protocol deobfuscation, 500-thread async worker optimization, and zero-trace release packaging) is distributed exclusively via the pinned post on the author's official Facebook profile: **[Lãng Thế (mmo.langthe)](https://www.facebook.com/mmo.langthe)**.
+
+---
+
+## 📦 Repository Artifacts (`v2.5 Standard`)
+
+- `README.md` — Core Architecture Specification & 1-Click Bootstrap Guide (`v2.5`).
+- `install_v2.5.sh` — Automated Linux VM Runtime Installer (`USER_WORKFLOW.md`, `KNOWLEDGE_BASE.md`, `bin/code_guard.sh`).
+- `version_v2.5.json` — Remote Telemetry & `v3.0 PRO` Release Channel Descriptor.
 
 ---
 
@@ -22,12 +30,12 @@
 
 ---
 
-## 🚀 1-Click Deployment (Universal Bootstrap)
+## 🚀 1-Click Deployment (`v2.5 Universal Bootstrap`)
 
-Open [https://muse.ai/](https://muse.ai/), paste the deployment block below directly into the prompt console, and press **Enter** (supports both Vietnamese & English command workflows):
+Open [https://muse.ai/](https://muse.ai/), paste the deployment block below directly into the prompt console, and press **Enter**:
 
 ```text
-Chạy đúng 1 lệnh bash gộp trong ~/workspace để tải và thực thi bộ cài đặt Muse Core Engine từ kho lưu trữ GitHub "keyziin/muse-core-engine" (nhánh main: tải install.sh, README.md và version.json từ raw.githubusercontent.com/keyziin/muse-core-engine/main/), chạy bash install.sh, lưu toàn bộ quy tắc trong ~/workspace/USER_WORKFLOW.md cùng thông tin phiên bản/kênh cập nhật trong version.json vào bộ nhớ dài hạn (memory) của bạn, sau đó hiển thị khung trạng thái kích hoạt và hướng dẫn nơi nhận bản cập nhật v3.0 Pro theo đúng nội dung trong version.json!
+Chạy đúng 1 lệnh bash gộp trong ~/workspace để tải và thực thi bộ cài đặt Muse Core Engine v2.5 từ kho lưu trữ GitHub "keyziin/muse-core-engine" (nhánh main: tải install_v2.5.sh, README.md và version_v2.5.json từ raw.githubusercontent.com/keyziin/muse-core-engine/main/), chạy bash install_v2.5.sh, lưu toàn bộ quy tắc trong ~/workspace/USER_WORKFLOW.md cùng thông tin phiên bản/kênh cập nhật trong version_v2.5.json vào bộ nhớ dài hạn (memory) của bạn, sau đó hiển thị khung trạng thái kích hoạt và hướng dẫn nơi nhận bản cập nhật v3.0 Pro theo đúng nội dung trong version_v2.5.json!
 ```
 
 ---

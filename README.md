@@ -1,4 +1,4 @@
-# ⚡ Muse Core Engine v2.5 — Autonomous Protocol & Heavy Automation Runtime
+﻿# ⚡ Muse Core Engine v2.5 — Autonomous Protocol & Heavy Automation Runtime
 
 [![Version](https://img.shields.io/badge/Engine-v2.5_Standard-00e676?style=for-the-badge)](#)
 [![Pro_Release](https://img.shields.io/badge/v3.0_PRO-Available_via_Author-ff1744?style=for-the-badge)](https://www.facebook.com/mmo.langthe)
@@ -6,8 +6,8 @@
 
 **Muse Core Engine (`v2.5`)** is a low-level operational harness and behavioral firmware designed for **Meta Muse.ai**. It strips away verbose conversational overhead and reconfigures the persistent Linux Cloud VM (`~/workspace`) + Browser Bridge into a disciplined, high-throughput **Autonomous Execution & Protocol Analysis Engine**.
 
-> 📌 **Original Author & Official Release Channel:** **Lãng Thế** — [https://www.facebook.com/mmo.langthe](https://www.facebook.com/mmo.langthe)  
-> 🔥 **Looking for `v3.0 PRO (Full Unlocked)`?** The v3.0 PRO payload (featuring automated `.har`/AST protocol deobfuscation, 500-thread async worker optimization, and zero-trace release packaging) is distributed exclusively via the pinned post on the author's official Facebook profile: **[Lãng Thế (mmo.langthe)](https://www.facebook.com/mmo.langthe)**.
+> 📌 **Original Author & Official Release Channel:** **Lăng Thế** — [https://www.facebook.com/mmo.langthe](https://www.facebook.com/mmo.langthe)  
+> 🔥 **Looking for `v3.0 PRO (Full Unlocked)`?** The v3.0 PRO payload (featuring automated `.har`/AST protocol deobfuscation, 500-thread async worker optimization, and zero-trace release packaging) is distributed exclusively via the pinned post on the author's official Facebook profile: **[Lăng Thế (mmo.langthe)](https://www.facebook.com/mmo.langthe)**.
 
 ---
 
@@ -59,4 +59,4 @@ While **v2.5 Standard** establishes the core 2-Phase discipline, anti-regression
 2. **`pack_release.sh` (`đóng gói <dir>`)**: Pre-flight syntax validator (`py_compile` / `node --check` / `bash -n`) and artifact sanitizer that strips `.bak`, `__pycache__`, and debug traces into a clean, deployment-ready `.zip`.
 3. **High-Concurrency Async Engine (`tối ưu <tool>`)**: Refactors sequential bottlenecks into high-throughput `asyncio`/ThreadPool workers (50–500 concurrent tasks) with automatic session vault rotation.
 
-👉 **Get the `v3.0 PRO` activation payload from the author's official Facebook:** **[Lãng Thế — https://www.facebook.com/mmo.langthe](https://www.facebook.com/mmo.langthe)**
+👉 **Get the `v3.0 PRO` activation payload from the author's official Facebook:** **[Lăng Thế — https://www.facebook.com/mmo.langthe](https://www.facebook.com/mmo.langthe)**
